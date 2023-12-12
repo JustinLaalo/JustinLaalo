@@ -91,3 +91,4 @@ As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to per
 ## How to Reach Me
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JustinLaalo@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-laalo-73ba102a4/)
