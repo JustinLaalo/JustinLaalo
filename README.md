@@ -1,5 +1,4 @@
-# [Your Name]'s GitHub Portfolio
-
+<img src="https://wallpapers.com/images/featured/retro-city-w3l254rpv4tjtf6w.jpg" width = 1000>
 ## Introduction
 
 Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical experience as a software engineer at IFS.
@@ -9,6 +8,14 @@ Hello there! 👋 I'm Justin, a third-year student at Carleton University, major
 - 📚 Studying AI and Computer Science at Carleton University.
 - 💻 Proficient in algorithm design and analysis.
 - 🎓 Third-year student with a keen interest in AI, machine learning, and software development.
+
+### Coursework Highlights
+
+- **Data Structures:** In-depth understanding and practical application of data structures, such as: redblack trees, scape-goat trees and heaps.
+- **Relational Databases:** Proficient in working with relational databases, with a focus on SQL and PL/SQL.
+- **Threads** Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how ascyronous progam would operate.
+- **Operating System** Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some assembly.
+- **Java Robotics (Cyberbotics IDE):** Engaged in robotics projects using Java and the Cyberbotics IDE, gaining hands-on experience in building and programming robots. I am hopping in the feautre to have an opportunity to apply AI with robitcs and further improve my understanding of the two feilds
 
 ## Technical Skills
 
@@ -22,7 +29,15 @@ Hello there! 👋 I'm Justin, a third-year student at Carleton University, major
 - ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
 
+### Version Control
+
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+  
 ### Libraries/Frameworks
 
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,16 +53,25 @@ Hello there! 👋 I'm Justin, a third-year student at Carleton University, major
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Other
+
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  
 ## Professional Experience
 
 ### IFS - Software Engineer
 
-As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on [mention any specific projects or areas of focus, if possible].
+As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on maintaining their product while also add/fixing features in their UI.
 
 ## Projects
 
 [Optional: List or briefly describe relevant projects you've worked on.]
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiredCat8&langs_count=8)
+
 ## How to Reach Me
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](JustinLaalo@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JustinLaalo@gmail.com)
