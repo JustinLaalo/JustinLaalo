@@ -1,23 +1,27 @@
 ![Image](https://github.com/TiredCat8/TiredCat8/blob/main/retro-city-w3l254rpv4tjtf6w.jpg)
 
 ## $\color{rgb(112,165,253)}{\textsf{Introduction}}$
-
-$\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical experience as a software engineer at IFS.
-}}$
+<p>$\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical experience as a software engineer at IFS.
+}}$</p>
 
 ## $\color{rgb(112,165,253)}{\textsf{Academic Background}}$
 
-- $\color{rgb(56,189,162)}{\textsf{📚 Studying AI and Computer Science at Carleton University.}}$
-- $\color{rgb(56,189,162)}{\textsf{💻 Proficient in algorithm design and analysis.}}$
-- $\color{rgb(56,189,162)}{\textsf{🎓 Third-year student with a keen interest in AI, machine learning, and software development.}}$
+<ul>
+  <li>$\color{rgb(56,189,162)}{\textsf{📚 Studying AI and Computer Science at Carleton University.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{💻 Proficient in algorithm design and analysis.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{🎓 Third-year student with a keen interest in AI, machine learning, and software development.}}$</li>
+</ul>
 
 ### $\color{rgb(112,165,253)}{\textsf{Coursework Highlights}}$
-
-- $\color{rgb(56,189,162)}{\textsf{Data Structures: In-depth understanding and practical application of data structures, such as: redblack trees, scape-goat trees and heaps.}}$ 
-- $\color{rgb(56,189,162)}{\textsf{Relational Databases: Proficient in working with relational databases, with a focus on SQL and PL/SQL.}}$
-- $\color{rgb(56,189,162)}{\textsf{Threads Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how ascyronous progam would operate.}}$
-- $\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some assembly.}}$
-- $\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE): Engaged in robotics projects using Java and the Cyberbotics IDE, gaining hands-on experience in building and programming robots. I am hopping in the feautre to have an opportunity to apply AI with robitcs and further improve my understanding of the two feilds}}$
+<p>
+<ul>
+  <li>$\color{rgb(56,189,162)}{\textsf{Data Structures: In-depth understanding and practical application of data structures, such as: redblack trees, scape-goat trees and heaps.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Relational Databases: Proficient in working with relational databases, with a focus on SQL and PL/SQL.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Threads Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how ascyronous progam would operate.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some assembly.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE):</strong> Worked on Java robotics projects, gaining hands-on experience in building and programming robots. Eager to apply AI in robotics for deeper insights.}}$</li>
+</ul>
+</p>
 
 ## $\color{rgb(112,165,253)}{\textsf{Technical Skills}}$
 
@@ -83,7 +87,7 @@ $\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year stud
 
 ### $\color{rgb(112,165,253)}{\textsf{IFS - Software Engineer}}$ 
 
-$\color{rgb(56,189,162)}{\textsf{As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on maintaining their product while also add/fixing features in their UI.}}$ 
+<p> $\color{rgb(56,189,162)}{\textsf{As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on maintaining their product while also add/fixing features in their UI.}}$</p>
 
 ## $\color{rgb(112,165,253)}{\textsf{Stats}}$ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiredCat8&langs_count=8&theme=tokyonight) 
