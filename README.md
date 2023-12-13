@@ -1,10 +1,10 @@
 ![Image](https://github.com/TiredCat8/TiredCat8/blob/main/retro-city-w3l254rpv4tjtf6w.jpg)
 
 ## $\color{rgb(112,165,253)}{\textsf{Introduction}}$
-<p>$\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical 
-}}$</p>
-<p>$\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
-}}$</p>
+$\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical 
+}}$
+$\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
+}}$
 
 ## $\color{rgb(112,165,253)}{\textsf{Academic Background}}$
 
