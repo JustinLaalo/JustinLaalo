@@ -2,7 +2,8 @@
 
 ## $\color{rgb(112,165,253)}{\textsf{Introduction}}$
 <p>$\color{rgb(56,189,162)}{\textsf{Hello there! 👋 I'm Justin, a third-year student at Carleton University, majoring in AI and Computer Science. Currently, I am gaining practical 
-  experience as a software engineer at IFS.
+}}$</p>
+<p>$\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
 }}$</p>
 
 ## $\color{rgb(112,165,253)}{\textsf{Academic Background}}$
@@ -18,12 +19,9 @@
 <ul>
   <li>$\color{rgb(56,189,162)}{\textsf{Data Structures: In-depth understanding and practical application of data structures,}}{\textsf{such as: redblack trees, scape-goat trees and heaps.}}$</li>
   <li>$\color{rgb(56,189,162)}{\textsf{Relational Databases: Proficient in working with relational databases, with a focus on SQL and PL/SQL.}}$</li>
-  <li>$\color{rgb(56,189,162)}{\textsf{Threads Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how 
-    ascyronous progam would operate.}}$</li>
-  <li>$\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some 
-    assembly.}}$</li>
-  <li>$\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE):</strong> Worked on Java robotics projects, gaining hands-on experience in building and programming robots.}} {\textsf{Eager to 
-  apply AI in robotics for deeper insights.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Threads Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how ascyronous progam would operate.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some assembly.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE):</strong> Worked on Java robotics projects, gaining hands-on experience in building and programming robots.}} {\textsf{Eager to apply AI in robotics for deeper insights.}}$</li>
 </ul>
 </p>
 
