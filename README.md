@@ -21,8 +21,10 @@ $\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
   <li>$\color{rgb(56,189,162)}{\textsf{Relational Databases: Proficient in working with relational databases, with a focus on SQL and PL/SQL.}}$</li>
   <li>$\color{rgb(56,189,162)}{\textsf{Threads Implemented Multi-threading in a couple of project using the C and C++ language, while gaining a deeper understanding of how}}$</li>
   $\color{rgb(56,189,162)}{\textsf{ascyronous progam would operate.}}$
-  <li>$\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some assembly.}}$</li>
-  <li>$\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE):</strong> Worked on Java robotics projects, gaining hands-on experience in building and programming robots.}} {\textsf{Eager to apply AI in robotics for deeper insights.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{Operating System Explored the intricacies of operating systems with a specific emphasis on Linux environments, while also touching base on some}}$</li>
+  $\color{rgb(56,189,162)}{\textsf{assembly.}}$
+  <li>$\color{rgb(56,189,162)}{\textsf{Java Robotics (Cyberbotics IDE):</strong> Worked on Java robotics projects, gaining hands-on experience in building and programming robots.}} {\textsf{Eager to}}$</li>
+  $\color{rgb(56,189,162)}{\textsf{apply AI in robotics for deeper insights.}}$
 </ul>
 </p>
 
@@ -90,7 +92,8 @@ $\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
 
 ### $\color{rgb(112,165,253)}{\textsf{IFS - Software Engineer}}$ 
 
-<p> $\color{rgb(56,189,162)}{\textsf{As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on maintaining their product while also add/fixing features in their UI.}}$</p>
+$\color{rgb(56,189,162)}{\textsf{As a software engineer at IFS, I apply my skills in Java, SQL, and PL/SQL to perform my job responsibilities efficiently. I work on maintaining their}}$
+$\color{rgb(56,189,162)}{\textsf{product while also add/fixing features in their UI.}}$
 
 ## $\color{rgb(112,165,253)}{\textsf{Stats}}$ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiredCat8&langs_count=8&theme=tokyonight) 
