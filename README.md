@@ -11,7 +11,7 @@ $\color{rgb(56,189,162)}{\textsf{experience as a software engineer at IFS.
 <ul>
   <li>$\color{rgb(56,189,162)}{\textsf{📚 Studying AI and Computer Science at Carleton University.}}$</li>
   <li>$\color{rgb(56,189,162)}{\textsf{💻 Proficient in algorithm design and analysis.}}$</li>
-  <li>$\color{rgb(56,189,162)}{\textsf{🎓 Third-year student with a keen interest in AI, machine learning, and software development.}}$</li>
+  <li>$\color{rgb(56,189,162)}{\textsf{🎓 Foruth-year student with a keen interest in AI, machine learning, and software development.}}$</li>
 </ul>
 
 ### $\color{rgb(112,165,253)}{\textsf{Coursework Highlights}}$
